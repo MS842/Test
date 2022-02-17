@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ServerMain
+comment1.params=port
+comment1.target=ServerMain(int)
+comment10.params=s
+comment10.target=void\ print(java.lang.String)
+comment2.params=
+comment2.target=ServerMain()
+comment3.params=port
+comment3.target=boolean\ start(int)
+comment4.params=s
+comment4.target=void\ setMsgRec(java.lang.String)
+comment5.params=
+comment5.target=boolean\ newMsg()
+comment6.params=
+comment6.target=java.lang.String\ getMsg()
+comment7.params=s
+comment7.target=boolean\ sendMessage(java.lang.String)
+comment8.params=
+comment8.target=boolean\ exit()
+comment9.params=e\ s
+comment9.target=boolean\ error(java.lang.Exception,\ java.lang.String)
+numComments=11

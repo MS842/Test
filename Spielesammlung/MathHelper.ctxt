@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MathHelper
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ MathHelper.\r\n\r\n\ @author\ Max\ &\ Tilo\r\n\ @version\ 0.2\r\n
+comment1.params=i\ seitenlaenge
+comment1.target=int\ gridNrY(int,\ int)
+comment2.params=i\ seitenlaenge
+comment2.target=int\ gridNrX(double,\ double)
+comment3.params=xIN\ yIN\ widthIN
+comment3.target=int\ tileNum(int,\ int,\ int)
+comment4.params=i\ seitenlaenge
+comment4.target=int\ MenueGridNrY(int,\ int)
+numComments=5
