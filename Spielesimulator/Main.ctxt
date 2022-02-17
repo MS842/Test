@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=void\ init()
+comment1.text=\r\n\ Init-Methode\ f\u00FCr\ die\ JavaFX-Applikation.\ \r\n\ In\ dieser\ Methode\ werden\ Konstruktor-typische\ Initialisierungen\ vorgenommen.\ \r\n\ Sie\ wird\ einmalig\ nach\ dem\ Launch\ der\ JavaFX-Applikation\ und\ nicht\ im\ JavaFX-Thread\ ausgef\u00FChrt.\ \r\n\ Deshalb\ DARF\ NICHT\ in\ dieser\ Methode\ die\ GUI\ erzeugt\ werden.\ \r\n
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment2.text=\r\n\ Start-Methode\ f\u00FCr\ die\ JavaFX-Applikation.\ \r\n\ In\ dieser\ Methode\ wird\ insbesondere\ die\ grafische\ Benutzeroberfl\u00E4che\ erzeugt.\ \r\n\ Sie\ wird\ einmalig\ nach\ der\ Init()-Methode\ und\ im\ JavaFX-Thread\ ausgef\u00FChrt.\r\n\ Parameter\ Stage\ ist\ grafische\ Oberfl\u00E4che\ in\ der\ die\ Applikaton\ ausgef\u00FChrt\ wird.\r\n\ Eine\ Stage\ (engl.\ B\u00FChne)\ kann\ mehrere\ Szenen\ darstellen\r\n\ Die\ Stage\ wird\ automatisch\ von\ JavaFx\ erzeugt\r\n
+comment3.params=event
+comment3.target=void\ handle(javafx.event.ActionEvent)
+comment4.params=event
+comment4.target=void\ handle(javafx.scene.input.KeyEvent)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ Main\ Methode\r\n\ Intiieren\ von\ JavaFx,\ optional\r\n\ Darf\ nur\ einmal\ aufgrufen\ werden\r\n
+comment6.params=
+comment6.target=void\ stop()
+comment6.text=\r\n\ Stop-Methode\ f\u00FCr\ die\ JavaFX-Applikation.\ \r\n\ In\ dieser\ Methode\ k\u00F6nnen\ "Aufr\u00E4umarbeiten"\ vorgenommen\ werden.\ \r\n\ Sie\ wird\ einmalig\ beim\ Beenden\ der\ Applikation\ und\ im\ JavaFX-Thread\ ausgef\u00FChrt.\ \r\n
+comment7.params=
+comment7.target=void\ backToMenueScene()
+comment7.text=public\ void\ updateTikTakToeShow(){\r\n\ \ \ \ tikTakToeShow.close();\r\n\ \ \ \ tikTakToeShow.show();\r\n\ \ \ \ }\r\n\ \ \ \ public\ void\ closeTikTakToeShow(){\r\n\ \ \ \ tikTakToeShow.close();\r\n\ \ \ \ }\r\n\ \ \ \ public\ void\ showTikTakToeShow(){\r\n\ \ \ \ tikTakToeShow.show();\r\n}
+comment8.params=
+comment8.target=double\ getScreenHeight()
+comment9.params=
+comment9.target=double\ getScreenWidth()
+numComments=10

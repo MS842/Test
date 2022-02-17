@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TikTakToeGameLogic
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ TikTakToeGameLogic.\r\n\r\n\ @author\ Max\ &\ Ben\r\n\ @version\ 1.1\r\n
+comment1.params=widthIN\ heightIN\ lengthToWinIN\ startingPlayerIN\ tikTakToeStageIN
+comment1.target=TikTakToeGameLogic(int,\ int,\ int,\ boolean,\ TikTakToeStage)
+comment2.params=xIN\ yIN\ ownIN
+comment2.target=boolean\ tryToPlacePice(int,\ int,\ boolean)
+comment3.params=xIN\ yIN
+comment3.target=boolean\ checkForWin(int,\ int)
+comment4.params=xIN\ yIN\ deltaXIN\ deltaYIN\ typeIN
+comment4.target=int\ addRay(int,\ int,\ int,\ int,\ int)
+comment5.params=
+comment5.target=boolean\ checkForDraw()
+comment6.params=
+comment6.target=int[][]\ getTiles()
+comment7.params=
+comment7.target=TikTakToeGameLogic.GameState\ getGameState()
+numComments=8

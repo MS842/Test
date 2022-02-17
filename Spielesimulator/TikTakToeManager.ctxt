@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TikTakToeManager
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ TikTakToeManager.\r\n\ \r\n\ @author\ Max\ und\ Tilo\r\n\ @version\ 0.3\r\n
+comment1.params=tikTakToeStageIN
+comment1.target=TikTakToeManager(TikTakToeStage)
+comment2.params=seitenlaengeIN
+comment2.target=void\ startNewGame(int)
+comment3.params=xIN\ yIN\ tikTakToeStageIN
+comment3.target=void\ inputButton(int,\ int,\ TikTakToeStage)
+comment4.params=
+comment4.target=boolean\ getTurn()
+comment5.params=sIN\ criticalErrorIN
+comment5.target=void\ error(java.lang.String,\ boolean)
+numComments=6

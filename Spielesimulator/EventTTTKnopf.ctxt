@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EventTTTKnopf
+comment1.params=pI\ pSeitenlaenge\ tikTakToeStageIN
+comment1.target=EventTTTKnopf(int,\ int,\ TikTakToeStage)
+comment2.params=event
+comment2.target=void\ handle(javafx.event.ActionEvent)
+numComments=3
